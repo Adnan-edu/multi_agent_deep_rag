@@ -6,6 +6,10 @@ This project focuses on extracting high-quality, structured data from complex fi
 
 The objective is to process financial reports (like 10-K, 10-Q) and extract not just text, but also visual and tabular data while maintaining context and structural integrity.
 
+## PDF Data Extraction Pipeline Flow
+
+![PDF Data Extraction Pipeline Flow](./02_01_PDF%20Data%20Extraction%20Pipeline%20Flow.png)
+
 ## Key Features
 
 - **Automated Metadata Extraction**: Parses filenames (e.g., `Apple 10-K 2023.pdf`) to identify the company, document type, and fiscal period.
