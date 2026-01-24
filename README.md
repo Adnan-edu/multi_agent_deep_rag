@@ -13,6 +13,7 @@ This document aggregates the documentation for all sub-projects in the Multi-Age
 - [Deep Finance Researcher with TODO Planner](#deep-finance-researcher-with-todo-planner)
 - [Multi-Agent Deep AI Finance Researcher from Scratch](#multi-agent-deep-ai-finance-researcher-from-scratch)
 - [Deep Agent - Langchain's Multi-Agent Deep Researcher](#deep-agent---langchains-multi-agent-deep-researcher)
+- [Acknowledgments](#acknowledgments)
 
 
 ---
@@ -592,3 +593,9 @@ The system utilizes state-of-the-art models for reasoning and retrieval:
     *   Delegate to the research sub-agent.
     *   Perform hybrid searches and live data lookups.
     *   Synthesize a final report in markdown format saved to `research_outputs/{user_id}/{thread_id}/final_report.md`.
+
+
+<a id="acknowledgments"></a>
+## ![Credits Badge](https://img.shields.io/badge/Credits-KGPTalkie|LaxmiKant-blue?style=flat-square)
+
+The content is based on KGPTalkie's comprehensive Multi-Modal Deep Agent course (Langchain v1 AI Agents, Multi-Modal Deep Agents, Multi Agent Deep Advanced RAG, Google Gemini 3, Qdrant, Docker, Docling) and reflects his expertise in making complex deep agents learning concepts accessible through practical, hands-on examples.
