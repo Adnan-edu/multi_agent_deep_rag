@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="Multi_Agent_Deep_RAG.png" alt="Multi-Agent-Deep-RAG" width="1000"/>
+</p>
+
+
 # Multi-Agent Deep RAG Project
 
 This document aggregates the documentation for all sub-projects in the Multi-Agent Deep RAG repository.
